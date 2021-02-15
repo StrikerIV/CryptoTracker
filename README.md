@@ -1,6 +1,6 @@
 # CryptoTracker
 
-A discord bot that web scrapes from messari.io for real-time cryptocurrency tracking using Seleninum. 
+A discord bot that web scrapes from messari.io for real-time cryptocurrency tracking using Selenium. 
 
 ### THIS IS IN BETA AND WILL NOT PROPERLY FUNCTION, IT IS NOT GUARENTEED TO WORK.
 
