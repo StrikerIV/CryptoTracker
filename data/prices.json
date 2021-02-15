@@ -1,0 +1,22 @@
+{
+  "lastUpdated": 1613346238150,
+  "data": {
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "market_data": {
+      "price": "48810.80",
+      "volume-24": "70224824366.74",
+      "real-volume-24": "7948958577.77",
+      "percent-change-24": "+2.47%",
+      "ol-1": {
+        "open": "48548.73",
+        "low": "49214.94"
+      },
+      "ol-24": {
+        "open": "47043.83",
+        "low": "49723.07"
+      }
+    }
+  }
+}

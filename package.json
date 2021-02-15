@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "chromedriver": "^88.0.0",
+    "discord.js": "^12.5.1",
+    "glob": "^7.1.6",
+    "got": "^11.8.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
