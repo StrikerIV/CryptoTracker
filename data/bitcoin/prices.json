@@ -1,0 +1,1518 @@
+[
+  {
+    "timeRecorded": 1613771179415,
+    "price": "56090.26"
+  },
+  {
+    "timeRecorded": 1613771220286,
+    "price": 56050
+  },
+  {
+    "timeRecorded": 1613771229328,
+    "price": 56039
+  },
+  {
+    "timeRecorded": 1613771238438,
+    "price": 56028
+  },
+  {
+    "timeRecorded": 1613771247639,
+    "price": 56002
+  },
+  {
+    "timeRecorded": 1613771309927,
+    "price": 55662.54
+  },
+  {
+    "timeRecorded": 1613771319128,
+    "price": 55635.16
+  },
+  {
+    "timeRecorded": 1613771400345,
+    "price": 55650.59
+  },
+  {
+    "timeRecorded": 1613771409465,
+    "price": 55657.09
+  },
+  {
+    "timeRecorded": 1613771418744,
+    "price": 55694.68
+  },
+  {
+    "timeRecorded": 1613771427970,
+    "price": 55766.96
+  },
+  {
+    "timeRecorded": 1613771437224,
+    "price": 55747.12
+  },
+  {
+    "timeRecorded": 1613771446438,
+    "price": 55782.54
+  },
+  {
+    "timeRecorded": 1613771455462,
+    "price": 55765.6
+  },
+  {
+    "timeRecorded": 1613771465211,
+    "price": 55767.04
+  },
+  {
+    "timeRecorded": 1613771474336,
+    "price": 55797.26
+  },
+  {
+    "timeRecorded": 1613771483579,
+    "price": 55784.17
+  },
+  {
+    "timeRecorded": 1613771492472,
+    "price": 55787.17
+  },
+  {
+    "timeRecorded": 1613771501425,
+    "price": 55760.42
+  },
+  {
+    "timeRecorded": 1613771510494,
+    "price": 55770.61
+  },
+  {
+    "timeRecorded": 1613771519854,
+    "price": 55757.86
+  },
+  {
+    "timeRecorded": 1613771528869,
+    "price": 55754.57
+  },
+  {
+    "timeRecorded": 1613771538028,
+    "price": 55739.73
+  },
+  {
+    "timeRecorded": 1613771547142,
+    "price": 55714.47
+  },
+  {
+    "timeRecorded": 1613771556210,
+    "price": 55709.72
+  },
+  {
+    "timeRecorded": 1613771565998,
+    "price": 55670.52
+  },
+  {
+    "timeRecorded": 1613771575136,
+    "price": 55650.46
+  },
+  {
+    "timeRecorded": 1613771584283,
+    "price": 55685.13
+  },
+  {
+    "timeRecorded": 1613771593649,
+    "price": 55682.13
+  },
+  {
+    "timeRecorded": 1613771602754,
+    "price": 55708.43
+  },
+  {
+    "timeRecorded": 1613771611707,
+    "price": 55690.8
+  },
+  {
+    "timeRecorded": 1613771620857,
+    "price": 55690.1
+  },
+  {
+    "timeRecorded": 1613771639844,
+    "price": 55683.1
+  },
+  {
+    "timeRecorded": 1613771649025,
+    "price": 55669.39
+  },
+  {
+    "timeRecorded": 1613771658663,
+    "price": 55669.89
+  },
+  {
+    "timeRecorded": 1613771667882,
+    "price": 55631.78
+  },
+  {
+    "timeRecorded": 1613771676945,
+    "price": 55588.37
+  },
+  {
+    "timeRecorded": 1613771686815,
+    "price": 55581.44
+  },
+  {
+    "timeRecorded": 1613771696104,
+    "price": 55563.6
+  },
+  {
+    "timeRecorded": 1613771705705,
+    "price": 55522.7
+  },
+  {
+    "timeRecorded": 1613771714909,
+    "price": 55530.1
+  },
+  {
+    "timeRecorded": 1613771724248,
+    "price": 55519.08
+  },
+  {
+    "timeRecorded": 1613771733846,
+    "price": 55510.69
+  },
+  {
+    "timeRecorded": 1613771743127,
+    "price": 55489.44
+  },
+  {
+    "timeRecorded": 1613771752995,
+    "price": 55461.48
+  },
+  {
+    "timeRecorded": 1613771762110,
+    "price": 55467.12
+  },
+  {
+    "timeRecorded": 1613771781135,
+    "price": 55583.26
+  },
+  {
+    "timeRecorded": 1613771790496,
+    "price": 55575.58
+  },
+  {
+    "timeRecorded": 1613771799838,
+    "price": 55543.09
+  },
+  {
+    "timeRecorded": 1613771809433,
+    "price": 55521.89
+  },
+  {
+    "timeRecorded": 1613771818676,
+    "price": 55508.56
+  },
+  {
+    "timeRecorded": 1613771827788,
+    "price": 55503.87
+  },
+  {
+    "timeRecorded": 1613771837135,
+    "price": 55506.04
+  },
+  {
+    "timeRecorded": 1613771846707,
+    "price": 55511.41
+  },
+  {
+    "timeRecorded": 1613771855920,
+    "price": 55505.42
+  },
+  {
+    "timeRecorded": 1613771865367,
+    "price": 55505.66
+  },
+  {
+    "timeRecorded": 1613771874530,
+    "price": 55512.05
+  },
+  {
+    "timeRecorded": 1613771883568,
+    "price": 55507.58
+  },
+  {
+    "timeRecorded": 1613771892592,
+    "price": 55501.06
+  },
+  {
+    "timeRecorded": 1613771902332,
+    "price": 55501.18
+  },
+  {
+    "timeRecorded": 1613771911621,
+    "price": 55502.27
+  },
+  {
+    "timeRecorded": 1613771920851,
+    "price": 55502.1
+  },
+  {
+    "timeRecorded": 1613771929970,
+    "price": 55505.57
+  },
+  {
+    "timeRecorded": 1613771939813,
+    "price": 55516.7
+  },
+  {
+    "timeRecorded": 1613771948978,
+    "price": 55523.94
+  },
+  {
+    "timeRecorded": 1613771958144,
+    "price": 55531.83
+  },
+  {
+    "timeRecorded": 1613771967451,
+    "price": 55542.45
+  },
+  {
+    "timeRecorded": 1613771977406,
+    "price": 55546.31
+  },
+  {
+    "timeRecorded": 1613771986431,
+    "price": 55559.89
+  },
+  {
+    "timeRecorded": 1613771995665,
+    "price": 55611.16
+  },
+  {
+    "timeRecorded": 1613772004882,
+    "price": 55626.56
+  },
+  {
+    "timeRecorded": 1613772014082,
+    "price": 55652.16
+  },
+  {
+    "timeRecorded": 1613772024009,
+    "price": 55622.17
+  },
+  {
+    "timeRecorded": 1613772033661,
+    "price": 55611.28
+  },
+  {
+    "timeRecorded": 1613772043171,
+    "price": 55614.44
+  },
+  {
+    "timeRecorded": 1613772052469,
+    "price": 55604.77
+  },
+  {
+    "timeRecorded": 1613772061770,
+    "price": 55595.14
+  },
+  {
+    "timeRecorded": 1613772071205,
+    "price": 55574.32
+  },
+  {
+    "timeRecorded": 1613772080647,
+    "price": 55558.41
+  },
+  {
+    "timeRecorded": 1613772089538,
+    "price": 55534.06
+  },
+  {
+    "timeRecorded": 1613772108837,
+    "price": 55508.85
+  },
+  {
+    "timeRecorded": 1613772118018,
+    "price": 55510.73
+  },
+  {
+    "timeRecorded": 1613772127035,
+    "price": 55503.95
+  },
+  {
+    "timeRecorded": 1613772136420,
+    "price": 55497.38
+  },
+  {
+    "timeRecorded": 1613772145467,
+    "price": 55460.96
+  },
+  {
+    "timeRecorded": 1613772155140,
+    "price": 55394.78
+  },
+  {
+    "timeRecorded": 1613772164321,
+    "price": 55389.72
+  },
+  {
+    "timeRecorded": 1613772173416,
+    "price": 55410.95
+  },
+  {
+    "timeRecorded": 1613772182537,
+    "price": 55411.26
+  },
+  {
+    "timeRecorded": 1613772191744,
+    "price": 55411.74
+  },
+  {
+    "timeRecorded": 1613772201262,
+    "price": 55446.45
+  },
+  {
+    "timeRecorded": 1613772211784,
+    "price": 55478.47
+  },
+  {
+    "timeRecorded": 1613772221028,
+    "price": 55496.52
+  },
+  {
+    "timeRecorded": 1613772230327,
+    "price": 55495.92
+  },
+  {
+    "timeRecorded": 1613772239429,
+    "price": 55492.67
+  },
+  {
+    "timeRecorded": 1613772249341,
+    "price": 55487.02
+  },
+  {
+    "timeRecorded": 1613772258202,
+    "price": 55495.17
+  },
+  {
+    "timeRecorded": 1613772268002,
+    "price": 55497.91
+  },
+  {
+    "timeRecorded": 1613772286746,
+    "price": 55489.34
+  },
+  {
+    "timeRecorded": 1613772295966,
+    "price": 55487.86
+  },
+  {
+    "timeRecorded": 1613772305316,
+    "price": 55498.83
+  },
+  {
+    "timeRecorded": 1613772314335,
+    "price": 55487.46
+  },
+  {
+    "timeRecorded": 1613772323511,
+    "price": 55485.33
+  },
+  {
+    "timeRecorded": 1613772333088,
+    "price": 55483.57
+  },
+  {
+    "timeRecorded": 1613772342379,
+    "price": 55495.22
+  },
+  {
+    "timeRecorded": 1613772351441,
+    "price": 55504.18
+  },
+  {
+    "timeRecorded": 1613772360801,
+    "price": 55505.98
+  },
+  {
+    "timeRecorded": 1613772370361,
+    "price": 55509.52
+  },
+  {
+    "timeRecorded": 1613772379478,
+    "price": 55511.38
+  },
+  {
+    "timeRecorded": 1613772398419,
+    "price": 55513.27
+  },
+  {
+    "timeRecorded": 1613772407615,
+    "price": 55515.05
+  },
+  {
+    "timeRecorded": 1613772416612,
+    "price": 55504.37
+  },
+  {
+    "timeRecorded": 1613772425890,
+    "price": 55495.04
+  },
+  {
+    "timeRecorded": 1613772435362,
+    "price": 55700.87
+  },
+  {
+    "timeRecorded": 1613772444470,
+    "price": 55487.54
+  },
+  {
+    "timeRecorded": 1613772453594,
+    "price": 55489.66
+  },
+  {
+    "timeRecorded": 1613772462642,
+    "price": 55485.02
+  },
+  {
+    "timeRecorded": 1613772472179,
+    "price": 55485.78
+  },
+  {
+    "timeRecorded": 1613772481187,
+    "price": 55485.45
+  },
+  {
+    "timeRecorded": 1613772490459,
+    "price": 55482.77
+  },
+  {
+    "timeRecorded": 1613772499823,
+    "price": 55482.73
+  },
+  {
+    "timeRecorded": 1613772518093,
+    "price": 55458.92
+  },
+  {
+    "timeRecorded": 1613772527476,
+    "price": 55457.33
+  },
+  {
+    "timeRecorded": 1613772536498,
+    "price": 55442.13
+  },
+  {
+    "timeRecorded": 1613772545558,
+    "price": 55700.87
+  },
+  {
+    "timeRecorded": 1613772554788,
+    "price": 55456.18
+  },
+  {
+    "timeRecorded": 1613772564109,
+    "price": 55451.34
+  },
+  {
+    "timeRecorded": 1613772573581,
+    "price": 55448.08
+  },
+  {
+    "timeRecorded": 1613772582877,
+    "price": 55413.93
+  },
+  {
+    "timeRecorded": 1613772592082,
+    "price": 55411.44
+  },
+  {
+    "timeRecorded": 1613772601153,
+    "price": 55442.6
+  },
+  {
+    "timeRecorded": 1613772610259,
+    "price": 55448.35
+  },
+  {
+    "timeRecorded": 1613772619446,
+    "price": 55467.58
+  },
+  {
+    "timeRecorded": 1613772628289,
+    "price": 55474.33
+  },
+  {
+    "timeRecorded": 1613772637348,
+    "price": 55700.87
+  },
+  {
+    "timeRecorded": 1613772646720,
+    "price": 55460.17
+  },
+  {
+    "timeRecorded": 1613772656135,
+    "price": 55462.9
+  },
+  {
+    "timeRecorded": 1613772665527,
+    "price": 55468
+  },
+  {
+    "timeRecorded": 1613772674629,
+    "price": 55449.98
+  },
+  {
+    "timeRecorded": 1613772684062,
+    "price": 55411.93
+  },
+  {
+    "timeRecorded": 1613772693472,
+    "price": 55389.32
+  },
+  {
+    "timeRecorded": 1613772703090,
+    "price": 55379.47
+  },
+  {
+    "timeRecorded": 1613772712707,
+    "price": 55380.55
+  },
+  {
+    "timeRecorded": 1613772721803,
+    "price": 55374.65
+  },
+  {
+    "timeRecorded": 1613772731409,
+    "price": 55379.34
+  },
+  {
+    "timeRecorded": 1613772740648,
+    "price": 55373.65
+  },
+  {
+    "timeRecorded": 1613772750006,
+    "price": 55375.66
+  },
+  {
+    "timeRecorded": 1613772759532,
+    "price": 55371.69
+  },
+  {
+    "timeRecorded": 1613772768906,
+    "price": 55354.18
+  },
+  {
+    "timeRecorded": 1613772778348,
+    "price": 55335.53
+  },
+  {
+    "timeRecorded": 1613772787303,
+    "price": 55329.86
+  },
+  {
+    "timeRecorded": 1613772796590,
+    "price": 55311.92
+  },
+  {
+    "timeRecorded": 1613772805826,
+    "price": 55301.06
+  },
+  {
+    "timeRecorded": 1613772815035,
+    "price": 55278.58
+  },
+  {
+    "timeRecorded": 1613772824275,
+    "price": 55253.66
+  },
+  {
+    "timeRecorded": 1613772842930,
+    "price": 55281.7
+  },
+  {
+    "timeRecorded": 1613772851823,
+    "price": 55284.15
+  },
+  {
+    "timeRecorded": 1613772860915,
+    "price": 55278.21
+  },
+  {
+    "timeRecorded": 1613772870026,
+    "price": 55277.27
+  },
+  {
+    "timeRecorded": 1613772879477,
+    "price": 55275.62
+  },
+  {
+    "timeRecorded": 1613772888649,
+    "price": 55261.39
+  },
+  {
+    "timeRecorded": 1613772898007,
+    "price": 55260.87
+  },
+  {
+    "timeRecorded": 1613772906875,
+    "price": 55249.14
+  },
+  {
+    "timeRecorded": 1613772916019,
+    "price": 55247.41
+  },
+  {
+    "timeRecorded": 1613772925819,
+    "price": 55248.57
+  },
+  {
+    "timeRecorded": 1613772935032,
+    "price": 55251.38
+  },
+  {
+    "timeRecorded": 1613772945216,
+    "price": 55251.8
+  },
+  {
+    "timeRecorded": 1613772954251,
+    "price": 55252.82
+  },
+  {
+    "timeRecorded": 1613772963666,
+    "price": 55253.68
+  },
+  {
+    "timeRecorded": 1613772985532,
+    "price": 55243.26
+  },
+  {
+    "timeRecorded": 1613772994582,
+    "price": 55232.23
+  },
+  {
+    "timeRecorded": 1613773003755,
+    "price": 55209.8
+  },
+  {
+    "timeRecorded": 1613773012780,
+    "price": 55199.23
+  },
+  {
+    "timeRecorded": 1613773022851,
+    "price": 55160.81
+  },
+  {
+    "timeRecorded": 1613773033442,
+    "price": 55157.07
+  },
+  {
+    "timeRecorded": 1613773042949,
+    "price": 55157.34
+  },
+  {
+    "timeRecorded": 1613773052571,
+    "price": 55145.74
+  },
+  {
+    "timeRecorded": 1613773062032,
+    "price": 55139.05
+  },
+  {
+    "timeRecorded": 1613773071718,
+    "price": 55139.82
+  },
+  {
+    "timeRecorded": 1613773080722,
+    "price": 55140.73
+  },
+  {
+    "timeRecorded": 1613773089887,
+    "price": 55146.41
+  },
+  {
+    "timeRecorded": 1613773099611,
+    "price": 55151.88
+  },
+  {
+    "timeRecorded": 1613773109123,
+    "price": 55156.41
+  },
+  {
+    "timeRecorded": 1613773119310,
+    "price": 55159.99
+  },
+  {
+    "timeRecorded": 1613773128494,
+    "price": 55162.6
+  },
+  {
+    "timeRecorded": 1613773137622,
+    "price": 55165.67
+  },
+  {
+    "timeRecorded": 1613773146859,
+    "price": 55174.96
+  },
+  {
+    "timeRecorded": 1613773156185,
+    "price": 55180.98
+  },
+  {
+    "timeRecorded": 1613773165255,
+    "price": 55199.51
+  },
+  {
+    "timeRecorded": 1613773174625,
+    "price": 55207.54
+  },
+  {
+    "timeRecorded": 1613773183505,
+    "price": 55220.62
+  },
+  {
+    "timeRecorded": 1613773192869,
+    "price": 55221.84
+  },
+  {
+    "timeRecorded": 1613773202126,
+    "price": 55220.2
+  },
+  {
+    "timeRecorded": 1613773211440,
+    "price": 55503.67
+  },
+  {
+    "timeRecorded": 1613773220830,
+    "price": 55252.43
+  },
+  {
+    "timeRecorded": 1613773230123,
+    "price": 55259.21
+  },
+  {
+    "timeRecorded": 1613773240023,
+    "price": 55270.92
+  },
+  {
+    "timeRecorded": 1613773249494,
+    "price": 55268.7
+  },
+  {
+    "timeRecorded": 1613773258918,
+    "price": 55271.78
+  },
+  {
+    "timeRecorded": 1613773268192,
+    "price": 55280.49
+  },
+  {
+    "timeRecorded": 1613773277372,
+    "price": 55296.39
+  },
+  {
+    "timeRecorded": 1613773286541,
+    "price": 55307.09
+  },
+  {
+    "timeRecorded": 1613773295603,
+    "price": 55325.55
+  },
+  {
+    "timeRecorded": 1613773304484,
+    "price": 55337.01
+  },
+  {
+    "timeRecorded": 1613773313740,
+    "price": 55347.48
+  },
+  {
+    "timeRecorded": 1613773324720,
+    "price": 55360.65
+  },
+  {
+    "timeRecorded": 1613773344644,
+    "price": 55361.91
+  },
+  {
+    "timeRecorded": 1613773355520,
+    "price": 55383.46
+  },
+  {
+    "timeRecorded": 1613773365073,
+    "price": 55391.79
+  },
+  {
+    "timeRecorded": 1613773374167,
+    "price": 55396.15
+  },
+  {
+    "timeRecorded": 1613773383614,
+    "price": 55398.53
+  },
+  {
+    "timeRecorded": 1613773393576,
+    "price": 55402.08
+  },
+  {
+    "timeRecorded": 1613773408158,
+    "price": 55415.89
+  },
+  {
+    "timeRecorded": 1613773417811,
+    "price": 55395.69
+  },
+  {
+    "timeRecorded": 1613773427091,
+    "price": 55374.37
+  },
+  {
+    "timeRecorded": 1613773436332,
+    "price": 55383.12
+  },
+  {
+    "timeRecorded": 1613773445326,
+    "price": 55382.27
+  },
+  {
+    "timeRecorded": 1613773454442,
+    "price": 55381.61
+  },
+  {
+    "timeRecorded": 1613773464733,
+    "price": 55392.26
+  },
+  {
+    "timeRecorded": 1613773474104,
+    "price": 55394.62
+  },
+  {
+    "timeRecorded": 1613773492739,
+    "price": 55403.15
+  },
+  {
+    "timeRecorded": 1613773501879,
+    "price": 55406.85
+  },
+  {
+    "timeRecorded": 1613773511303,
+    "price": 55418.35
+  },
+  {
+    "timeRecorded": 1613773520428,
+    "price": 55421.42
+  },
+  {
+    "timeRecorded": 1613773531092,
+    "price": 55426.12
+  },
+  {
+    "timeRecorded": 1613773542078,
+    "price": 55430.27
+  },
+  {
+    "timeRecorded": 1613773551767,
+    "price": 55437.34
+  },
+  {
+    "timeRecorded": 1613773561175,
+    "price": 55443.66
+  },
+  {
+    "timeRecorded": 1613773571263,
+    "price": 55456.28
+  },
+  {
+    "timeRecorded": 1613773581221,
+    "price": 55460.33
+  },
+  {
+    "timeRecorded": 1613773590755,
+    "price": 55477.62
+  },
+  {
+    "timeRecorded": 1613773599900,
+    "price": 55495.14
+  },
+  {
+    "timeRecorded": 1613773609232,
+    "price": 55501.96
+  },
+  {
+    "timeRecorded": 1613773618730,
+    "price": 55501.44
+  },
+  {
+    "timeRecorded": 1613773627430,
+    "price": 55510.9
+  },
+  {
+    "timeRecorded": 1613773637406,
+    "price": 55518.44
+  },
+  {
+    "timeRecorded": 1613773646659,
+    "price": 55518.81
+  },
+  {
+    "timeRecorded": 1613773655774,
+    "price": 55519.17
+  },
+  {
+    "timeRecorded": 1613773665433,
+    "price": 55519.3
+  },
+  {
+    "timeRecorded": 1613773675210,
+    "price": 55521.15
+  },
+  {
+    "timeRecorded": 1613773684728,
+    "price": 55519.81
+  },
+  {
+    "timeRecorded": 1613773694179,
+    "price": 55520.77
+  },
+  {
+    "timeRecorded": 1613773703649,
+    "price": 55527.55
+  },
+  {
+    "timeRecorded": 1613773713070,
+    "price": 55534.12
+  },
+  {
+    "timeRecorded": 1613773722072,
+    "price": 55535.99
+  },
+  {
+    "timeRecorded": 1613773731357,
+    "price": 55539.25
+  },
+  {
+    "timeRecorded": 1613773740521,
+    "price": 55542.97
+  },
+  {
+    "timeRecorded": 1613773749914,
+    "price": 55544.53
+  },
+  {
+    "timeRecorded": 1613773759589,
+    "price": 55543.88
+  },
+  {
+    "timeRecorded": 1613773768899,
+    "price": 55541.38
+  },
+  {
+    "timeRecorded": 1613773778141,
+    "price": 55544.76
+  },
+  {
+    "timeRecorded": 1613773787400,
+    "price": 55545.01
+  },
+  {
+    "timeRecorded": 1613773796485,
+    "price": 55547.75
+  },
+  {
+    "timeRecorded": 1613773805543,
+    "price": 55546.59
+  },
+  {
+    "timeRecorded": 1613773814585,
+    "price": 55547.21
+  },
+  {
+    "timeRecorded": 1613773823479,
+    "price": 55535.78
+  },
+  {
+    "timeRecorded": 1613773833350,
+    "price": 55508.8
+  },
+  {
+    "timeRecorded": 1613773842675,
+    "price": 55456.86
+  },
+  {
+    "timeRecorded": 1613773851791,
+    "price": 55446.77
+  },
+  {
+    "timeRecorded": 1613773861195,
+    "price": 55455.69
+  },
+  {
+    "timeRecorded": 1613773870322,
+    "price": 55463.31
+  },
+  {
+    "timeRecorded": 1613773879719,
+    "price": 55470.33
+  },
+  {
+    "timeRecorded": 1613773889261,
+    "price": 55473.56
+  },
+  {
+    "timeRecorded": 1613773898344,
+    "price": 55474.87
+  },
+  {
+    "timeRecorded": 1613773907273,
+    "price": 55476.73
+  },
+  {
+    "timeRecorded": 1613773916232,
+    "price": 55486.06
+  },
+  {
+    "timeRecorded": 1613773925385,
+    "price": 55496.32
+  },
+  {
+    "timeRecorded": 1613773934666,
+    "price": 55509.79
+  },
+  {
+    "timeRecorded": 1613773943702,
+    "price": 55515.14
+  },
+  {
+    "timeRecorded": 1613773953031,
+    "price": 55526.35
+  },
+  {
+    "timeRecorded": 1613773962118,
+    "price": 55530.87
+  },
+  {
+    "timeRecorded": 1613773971139,
+    "price": 55545.03
+  },
+  {
+    "timeRecorded": 1613773980247,
+    "price": 55549.51
+  },
+  {
+    "timeRecorded": 1613773989507,
+    "price": 55571.46
+  },
+  {
+    "timeRecorded": 1613773998424,
+    "price": 55568.32
+  },
+  {
+    "timeRecorded": 1613774007545,
+    "price": 55556.23
+  },
+  {
+    "timeRecorded": 1613774026606,
+    "price": 55522.92
+  },
+  {
+    "timeRecorded": 1613774036250,
+    "price": 55523.36
+  },
+  {
+    "timeRecorded": 1613774045445,
+    "price": 55525.18
+  },
+  {
+    "timeRecorded": 1613774054547,
+    "price": 55539.55
+  },
+  {
+    "timeRecorded": 1613774063942,
+    "price": 55551.56
+  },
+  {
+    "timeRecorded": 1613774072950,
+    "price": 55557.79
+  },
+  {
+    "timeRecorded": 1613774082175,
+    "price": 55565.64
+  },
+  {
+    "timeRecorded": 1613774091333,
+    "price": 55569.97
+  },
+  {
+    "timeRecorded": 1613774100646,
+    "price": 55560.96
+  },
+  {
+    "timeRecorded": 1613774110062,
+    "price": 55562.03
+  },
+  {
+    "timeRecorded": 1613774119161,
+    "price": 55561.84
+  },
+  {
+    "timeRecorded": 1613774128165,
+    "price": 55565.92
+  },
+  {
+    "timeRecorded": 1613774137308,
+    "price": 55564.77
+  },
+  {
+    "timeRecorded": 1613774146512,
+    "price": 55567.39
+  },
+  {
+    "timeRecorded": 1613774157391,
+    "price": 55567.58
+  },
+  {
+    "timeRecorded": 1613774166613,
+    "price": 55566.15
+  },
+  {
+    "timeRecorded": 1613774175846,
+    "price": 55546.81
+  },
+  {
+    "timeRecorded": 1613774185175,
+    "price": 55488.62
+  },
+  {
+    "timeRecorded": 1613774194409,
+    "price": 55473.81
+  },
+  {
+    "timeRecorded": 1613774203488,
+    "price": 55471.02
+  },
+  {
+    "timeRecorded": 1613774213023,
+    "price": 55494.42
+  },
+  {
+    "timeRecorded": 1613774222933,
+    "price": 55534.05
+  },
+  {
+    "timeRecorded": 1613774232504,
+    "price": 55534.69
+  },
+  {
+    "timeRecorded": 1613774241625,
+    "price": 55519.72
+  },
+  {
+    "timeRecorded": 1613774250866,
+    "price": 55518.38
+  },
+  {
+    "timeRecorded": 1613774259977,
+    "price": 55519.26
+  },
+  {
+    "timeRecorded": 1613774269774,
+    "price": 55515.39
+  },
+  {
+    "timeRecorded": 1613774279202,
+    "price": 55509.31
+  },
+  {
+    "timeRecorded": 1613774288382,
+    "price": 55517.32
+  },
+  {
+    "timeRecorded": 1613774297438,
+    "price": 55534.4
+  },
+  {
+    "timeRecorded": 1613774307296,
+    "price": 55543.08
+  },
+  {
+    "timeRecorded": 1613774316669,
+    "price": 55549.54
+  },
+  {
+    "timeRecorded": 1613774325838,
+    "price": 55547.34
+  },
+  {
+    "timeRecorded": 1613774334960,
+    "price": 55549.42
+  },
+  {
+    "timeRecorded": 1613774344128,
+    "price": 55553.89
+  },
+  {
+    "timeRecorded": 1613774353301,
+    "price": 55559.88
+  },
+  {
+    "timeRecorded": 1613774362310,
+    "price": 55569.25
+  },
+  {
+    "timeRecorded": 1613774371642,
+    "price": 55571.3
+  },
+  {
+    "timeRecorded": 1613774380989,
+    "price": 55571.33
+  },
+  {
+    "timeRecorded": 1613774389987,
+    "price": 55578.36
+  },
+  {
+    "timeRecorded": 1613774399038,
+    "price": 55582.34
+  },
+  {
+    "timeRecorded": 1613774408080,
+    "price": 55580.17
+  },
+  {
+    "timeRecorded": 1613774417320,
+    "price": 55581.34
+  },
+  {
+    "timeRecorded": 1613774426401,
+    "price": 55579.89
+  },
+  {
+    "timeRecorded": 1613774435583,
+    "price": 55582.46
+  },
+  {
+    "timeRecorded": 1613774444878,
+    "price": 55583.26
+  },
+  {
+    "timeRecorded": 1613774453980,
+    "price": 55584.38
+  },
+  {
+    "timeRecorded": 1613774463367,
+    "price": 55585.89
+  },
+  {
+    "timeRecorded": 1613774472675,
+    "price": 55603.79
+  },
+  {
+    "timeRecorded": 1613774482414,
+    "price": 55624.88
+  },
+  {
+    "timeRecorded": 1613774491940,
+    "price": 55652.75
+  },
+  {
+    "timeRecorded": 1613774500974,
+    "price": 55666.01
+  },
+  {
+    "timeRecorded": 1613774510331,
+    "price": 55678.07
+  },
+  {
+    "timeRecorded": 1613774519114,
+    "price": 55685.01
+  },
+  {
+    "timeRecorded": 1613774528563,
+    "price": 55693.75
+  },
+  {
+    "timeRecorded": 1613774537505,
+    "price": 55697.54
+  },
+  {
+    "timeRecorded": 1613774546551,
+    "price": 55694.81
+  },
+  {
+    "timeRecorded": 1613774555837,
+    "price": 55693.29
+  },
+  {
+    "timeRecorded": 1613774564776,
+    "price": 55699.81
+  },
+  {
+    "timeRecorded": 1613774573958,
+    "price": 55711.27
+  },
+  {
+    "timeRecorded": 1613774583322,
+    "price": 55717.5
+  },
+  {
+    "timeRecorded": 1613774593013,
+    "price": 55718.63
+  },
+  {
+    "timeRecorded": 1613774602224,
+    "price": 55726.22
+  },
+  {
+    "timeRecorded": 1613774611332,
+    "price": 55731.56
+  },
+  {
+    "timeRecorded": 1613774620581,
+    "price": 55730.4
+  },
+  {
+    "timeRecorded": 1613774629932,
+    "price": 55729.33
+  },
+  {
+    "timeRecorded": 1613774639355,
+    "price": 55730.32
+  },
+  {
+    "timeRecorded": 1613774648660,
+    "price": 55731.32
+  },
+  {
+    "timeRecorded": 1613774658058,
+    "price": 55733.24
+  },
+  {
+    "timeRecorded": 1613774667505,
+    "price": 55736.46
+  },
+  {
+    "timeRecorded": 1613774687238,
+    "price": 55750.49
+  },
+  {
+    "timeRecorded": 1613774696757,
+    "price": 55754.19
+  },
+  {
+    "timeRecorded": 1613774705857,
+    "price": 55752.22
+  },
+  {
+    "timeRecorded": 1613774714843,
+    "price": 55702.58
+  },
+  {
+    "timeRecorded": 1613774723937,
+    "price": 55606.82
+  },
+  {
+    "timeRecorded": 1613774732958,
+    "price": 55600.03
+  },
+  {
+    "timeRecorded": 1613774742214,
+    "price": 55652.08
+  },
+  {
+    "timeRecorded": 1613774755405,
+    "price": 55619.94
+  },
+  {
+    "timeRecorded": 1613774767719,
+    "price": 55613.43
+  },
+  {
+    "timeRecorded": 1613774780135,
+    "price": 55573.14
+  },
+  {
+    "timeRecorded": 1613774791097,
+    "price": 55556.99
+  },
+  {
+    "timeRecorded": 1613774800553,
+    "price": 55553.29
+  },
+  {
+    "timeRecorded": 1613774810088,
+    "price": 55550.39
+  },
+  {
+    "timeRecorded": 1613774819360,
+    "price": 55551.39
+  },
+  {
+    "timeRecorded": 1613774828852,
+    "price": 55567.42
+  },
+  {
+    "timeRecorded": 1613774838163,
+    "price": 55596.38
+  },
+  {
+    "timeRecorded": 1613774847516,
+    "price": 55641.82
+  },
+  {
+    "timeRecorded": 1613774856824,
+    "price": 55620.43
+  },
+  {
+    "timeRecorded": 1613774865795,
+    "price": 55596.85
+  },
+  {
+    "timeRecorded": 1613774875181,
+    "price": 55602.31
+  },
+  {
+    "timeRecorded": 1613774884260,
+    "price": 55600.21
+  },
+  {
+    "timeRecorded": 1613774893821,
+    "price": 55592.43
+  },
+  {
+    "timeRecorded": 1613774903471,
+    "price": 55571.01
+  },
+  {
+    "timeRecorded": 1613774913057,
+    "price": 55615.53
+  },
+  {
+    "timeRecorded": 1613774922224,
+    "price": 55580.04
+  },
+  {
+    "timeRecorded": 1613774933516,
+    "price": 55585.45
+  },
+  {
+    "timeRecorded": 1613774943995,
+    "price": 55571.62
+  },
+  {
+    "timeRecorded": 1613774953636,
+    "price": 55565.23
+  },
+  {
+    "timeRecorded": 1613774963379,
+    "price": 55568.32
+  },
+  {
+    "timeRecorded": 1613774972959,
+    "price": 55571.21
+  },
+  {
+    "timeRecorded": 1613774982504,
+    "price": 55575.44
+  },
+  {
+    "timeRecorded": 1613774991955,
+    "price": 55574.99
+  },
+  {
+    "timeRecorded": 1613775001807,
+    "price": 55572.31
+  }
+]

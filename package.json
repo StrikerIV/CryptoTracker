@@ -1,12 +1,19 @@
 {
   "dependencies": {
+    "@wdio/cli": "^7.0.5",
     "cheerio": "^1.0.0-rc.5",
     "chromedriver": "^88.0.0",
     "discord.js": "^12.5.1",
     "glob": "^7.1.6",
     "got": "^11.8.1",
+    "moment": "^2.29.1",
     "mysql": "^2.18.1",
+    "plotly": "^1.0.6",
     "request": "^2.88.2",
-    "selenium-webdriver": "^4.0.0-alpha.8"
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "webdriverjs": "^1.7.5"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^6.0.12"
   }
 }

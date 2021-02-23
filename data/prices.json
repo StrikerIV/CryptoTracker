@@ -1,22 +1,48 @@
-{
-  "lastUpdated": 1613346238150,
-  "data": {
-    "symbol": "btc",
-    "name": "Bitcoin",
-    "slug": "bitcoin",
-    "market_data": {
-      "price": "48810.80",
-      "volume-24": "70224824366.74",
-      "real-volume-24": "7948958577.77",
-      "percent-change-24": "+2.47%",
-      "ol-1": {
-        "open": "48548.73",
-        "low": "49214.94"
-      },
-      "ol-24": {
-        "open": "47043.83",
-        "low": "49723.07"
+[
+  {
+    "lastUpdated": 1613774999800,
+    "data": {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "slug": "bitcoin",
+      "market_data": {
+        "price": 55572.31,
+        "real-volume-24": 11865871093.04,
+        "reported-volume-24": 61962172120.66,
+        "percent-change-24-usd": "+7.75",
+        "high-low-1": {
+          "high": 55119.98,
+          "low": 56064.69
+        },
+        "high-low-24": {
+          "high": 50703.48,
+          "low": 56382.1
+        },
+        "last-trade": "a few seconds ago"
+      }
+    }
+  },
+  {
+    "lastUpdated": 1613775001644,
+    "data": {
+      "symbol": "REN",
+      "name": "Ren",
+      "slug": "ren",
+      "market_data": {
+        "price": 1.6194321689999998,
+        "real-volume-24": 532974204.38,
+        "reported-volume-24": 827501073.08,
+        "percent-change-24-usd": "+34.69",
+        "high-low-1": {
+          "high": 1.59,
+          "low": 1.67
+        },
+        "high-low-24": {
+          "high": 1.11,
+          "low": 1.73
+        },
+        "last-trade": "a few seconds ago"
       }
     }
   }
-}
+]

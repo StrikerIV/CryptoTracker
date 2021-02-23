@@ -1,6 +1,7 @@
 const { Builder, ChromeOptions } = require('selenium-webdriver');
 const config = require("../utils/config.json");
 const cheerio = require('cheerio');
+const { dbQuery, sleep } = require('../structures/structures');
 
 require('chromedriver');
 
@@ -8,28 +9,31 @@ exports.loadPages = async (client) => {
 
     async function main() {
 
+        let cryptosToTrack = await dbQuery(client, "SELECT * FROM mastercryptos WHERE tracking = 1")
+        if (cryptosToTrack.error) {
+            await sleep(5000)
+            return main()
+        }
+
         let driver = await new Builder().forBrowser('chrome').build();
 
-        async function loadCryptoTab(crypto, index) {
+        async function loadCryptoTab(crypto) {
 
-            await driver.get(`https://messari.io/asset/${crypto[2]}/metrics`);
-            await driver.sleep(1000)
+            driver.get(`https://messari.io/asset/${crypto.slug}/metrics`);
 
             let html = await driver.getPageSource()
 
             let $ = cheerio.load(html);
-            let title = $('title')
-
-            console.log(title.text())
 
             await driver.switchTo().newWindow('tab')
 
         }
 
-        for (const [index, crypto] of config.validSymbols.entries()) {
-            await loadCryptoTab(crypto, index)
+        for (const crypto of cryptosToTrack.results) {
+            await loadCryptoTab(crypto)
         }
 
+        driver.close();
         return driver
 
     }

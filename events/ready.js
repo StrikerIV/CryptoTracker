@@ -1,18 +1,14 @@
-const database = require("../utils/database.json")
 const config = require("../utils/config.json")
 const cheerio = require('cheerio');
 const request = require('request');
-const mysql = require('mysql');
 const got = require("got")
 const fs = require("fs");
-const { dbQuery } = require("../structures/structures");
+const { dbQuery, sleep } = require("../structures/structures");
 const { Builder, By, Key, util } = require("selenium-webdriver");
+const { updateCryptos } = require("./updateCryptos");
+const { promisify } = require('util')
 
 exports.ready = async (client) => {
-
-    const pool = await mysql.createPool(database);
-    const driver = client.driver
-    client.pool = pool
 
     client.guilds.fetch('671577661952360459').then(function (guild) {
         let emojis = guild.emojis.cache
@@ -21,5 +17,7 @@ exports.ready = async (client) => {
     })
 
     console.log("Ready!\n")
+
+    updateCryptos(client)
 
 }

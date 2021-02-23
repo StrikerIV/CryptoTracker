@@ -4,7 +4,8 @@ const Discord = require("discord.js");
 const { parse } = require("path");
 const glob = require("glob");
 const { loadPages } = require("./events/loadPages.js");
-
+const database = require("./utils/database.json");
+const { createPool } = require("./structures/structures.js");
 
 async function initalizeBot() {
 
@@ -31,6 +32,7 @@ async function initalizeBot() {
         })
     });
 
+    client.pool = await createPool(client)
     client.driver = await loadPages(client)
 
     client.once('ready', () => { eventExports.ready(client) })

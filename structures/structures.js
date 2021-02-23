@@ -1,12 +1,14 @@
 const Discord = require("discord.js");
+const mysql = require('mysql')
+const database = require("../utils/database.json")
 const { reactionCollector } = require("../events/reactionCollector");
 const message = require("../messageEvent/message");
 
 /**
  * 
- * @param {client} client 
- * @param {message} message 
- * @param {message} reactionMessage 
+ * @param {Discord.Client} client 
+ * @param {Discord.Message} message 
+ * @param {Discord.Message} reactionMessage 
  */
 
 async function reactionQuestion(client, message, reactionMessage) {
@@ -27,33 +29,52 @@ async function reactionQuestion(client, message, reactionMessage) {
 
 }
 
+async function createPool(client) {
+    return new Promise(async (result) => {
+        let pool = await mysql.createPool(database);
+        result(pool)
+    })
+}
+
 
 /**
- * 
- * @param {string} query 
- * @param {array} params 
+ * @param {Discord.Client} client 
+ * @param {String} query 
+ * @param {Array} params 
  */
 
 async function dbQuery(client, query, params) {
 
-    return new Promise((result) => {
-        client.pool.query(query, params, function (error, results, fields) {
-            if (error) throw error;
-            returnObject = {
-                error: error,
-                results: results,
-                fields: fields,
-            }
-            result(returnObject)
+    try {
+        let result = await new Promise((result) => {
+            client.pool.query(query, params, async function (error, results, fields) {
+                returnObject = {
+                    error: error,
+                    results: results,
+                    fields: fields,
+                }
+                result(returnObject)
+            })
         })
-    })
+
+        if (result.error) {
+            if (result.error.code === "ETIMEDOUT") throw new Error("ETIMEDOUT")
+        }
+
+        return result
+
+    } catch (any) {
+        console.log("Connection timeout from database -> Network Down...? Retrying connection.")
+        await sleep(5000)
+        return dbQuery(client, query, params)
+    }
 }
 
 /**
  * 
- * @param {client} client 
- * @param {string} error 
- * @param {string} title 
+ * @param {Discord.Client} client 
+ * @param {String} error 
+ * @param {String} title 
  */
 
 function error(client, error, title) {
@@ -70,10 +91,10 @@ function error(client, error, title) {
 
 /**
  * 
- * @param {client} client 
- * @param {string} success 
- * @param {string} title 
- * @param {string} footer
+ * @param {Discord.Client} client 
+ * @param {String} success 
+ * @param {String} title 
+ * @param {String} footer
  */
 
 function success(client, success, title, footer) {
@@ -94,9 +115,9 @@ function success(client, success, title, footer) {
 
 /**
  * 
- * @param {string} ongoing 
- * @param {string} author 
- * @param {string} footer 
+ * @param {String} ongoing 
+ * @param {String} author 
+ * @param {String} footer 
  */
 
 function ongoing(ongoing, author, footer) {
@@ -115,10 +136,46 @@ function ongoing(ongoing, author, footer) {
     return ongoingEmbed
 }
 
+/**
+ * 
+ * @param {Number} milliseconds 
+ */
+
+const sleep = (milliseconds) => {
+    return new Promise(resolve => setTimeout(resolve, milliseconds))
+}
+
+/**
+ * 
+ * @param {Array} a
+ * @param {Array} b 
+ */
+function arrayEquals(a, b) {
+    return Array.isArray(a) &&
+        Array.isArray(b) &&
+        a.length === b.length &&
+        a.every((val, index) => val === b[index]);
+}
+
+/**
+ * 
+ * @param {Array} a
+ * @param {Array} b 
+ */
+function arrayDifference(a, b) {
+    return a.filter(function (a) {
+        return b.indexOf(a) == -1;
+    });
+}
+
 module.exports = {
     reactionQuestion: reactionQuestion,
+    arrayDifference: arrayDifference,
+    arrayEquals: arrayEquals,
+    createPool: createPool,
     dbQuery: dbQuery,
     success: success,
     ongoing: ongoing,
+    sleep: sleep,
     error: error
 }
